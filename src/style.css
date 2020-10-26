@@ -40,10 +40,10 @@
   #divWrap {
     height: 50vh;
   }
+
   #div1 {
-    height: 50vh;
     position: relative;
     top: 0;
-    left: 0;
+    right: 0;
   }
 }
